@@ -4,7 +4,7 @@
 
 This is a simple basic communication system visualization framework that can be used to combine different types of communication system components.
 
-``Created by SavenNeer @ sdust.cs ``
+``Created by SavenNeer @ sdust.cs.iot ``
 
 ## Main Framwork
 
