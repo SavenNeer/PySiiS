@@ -4,7 +4,7 @@
 
 This is a simple basic communication system visualization framework that can be used to combine different types of communication system components.
 
-``Created by SavenNeer @ sdust.cs.iot ``
+``Created by SavenNeer @ sdust.cs.iot``
 
 ## Main Framwork
 
@@ -77,4 +77,6 @@ T = [
 
 ![image](/imgs/image2.png)
 
+## Contact Me
 
+Email:``caoyiming233 [at] 126 dot com``
