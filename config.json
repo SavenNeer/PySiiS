@@ -1,0 +1,14 @@
+{
+    "grpsize":10,
+    "sampling_t":0.01,
+    "fc":4000,
+    "alpha":20,
+    "snr":5,
+    "ellipticFLT":[2000,6000],
+    "lowpassF":2000,
+    "limit":5,
+    "interval":50,
+    "playnum":200,
+    "tt":20
+}
+
