@@ -1,6 +1,6 @@
 # PySiiS
 
-## What is Framwork PySiiS ?
+## What is Framework PySiiS ?
 
 This is a simple basic communication system visualization framework that can be used to combine different types of communication system components.
 
