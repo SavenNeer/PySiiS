@@ -6,7 +6,7 @@ This is a simple basic communication system visualization framework that can be 
 
 ``Created by SavenNeer @ sdust.cs.iot``
 
-## Main Framwork
+## Main Framework
 
 ```
 [data]
